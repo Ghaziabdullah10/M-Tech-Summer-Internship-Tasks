@@ -267,7 +267,6 @@ See `requirements.txt`. Summary of libraries used:
 
 ## 11. Credits
 
-Developed by **Ghazi Muhammad Abdullah** as a university
-Artificial Intelligence course project, demonstrating Python programming,
+Developed by **Ghazi Muhammad Abdullah**, demonstrating Python programming,
 Machine Learning, GUI development with Tkinter, file handling, and data
 analysis.
