@@ -1,7 +1,0 @@
-Timestamp,Age,Gender,Department,JobRole,MonthlyIncome,Education,BusinessTravel,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,OverTime,YearsAtCompany,TotalWorkingYears,DistanceFromHome,PerformanceRating,MaritalStatus,Prediction,Confidence
-2026-07-04 23:32:40,25,Male,Human Resources,Healthcare Representative,10000.0,3,Travel_Rarely,2,2,2,Yes,3,3,3,4,Single,Likely to Leave,73.18
-2026-07-04 23:54:20,30,Male,Sales,Sales Executive,1000.0,1,Non-Travel,1,1,1,Yes,3,5,5,3,Single,Likely to Leave,91.19
-2026-07-04 23:54:59,25,Female,Sales,Sales Executive,1000.0,1,Non-Travel,2,2,4,Yes,8,10,3,3,Single,Likely to Leave,70.58
-2026-07-04 23:58:03,28,Male,Sales,Manufacturing Director,345.0,5,Non-Travel,2,2,4,Yes,8,10,3,3,Single,Likely to Leave,74.78
-2026-07-04 23:58:42,28,Male,Sales,Manufacturing Director,345.0,5,Non-Travel,2,2,4,Yes,8,10,3,3,Single,Likely to Leave,74.78
-2026-07-04 23:59:37,28,Male,Sales,Manufacturing Director,345.0,5,Non-Travel,2,2,4,Yes,8,10,3,3,Single,Likely to Leave,74.78
